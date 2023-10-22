@@ -1,0 +1,5 @@
+1. In this part of the course there is some informations about:
+ -files,
+ -cpp,
+ -bin,
+ -exe, 

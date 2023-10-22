@@ -1,0 +1,2 @@
+This repository contains files from a C++ tutorial on YouTube. The tutorial is available at the following link: https://www.youtube.com/watch?v=ErOzmh3BiXU&list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo&pp=iAQB
+Each numbered folder corresponds thematically to the consecutive episodes of the tutorial.
